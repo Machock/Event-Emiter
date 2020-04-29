@@ -1,0 +1,11 @@
+{
+  "name": "event",
+  "version": "0.1.0",
+  "description": "event emiter",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ljia.loga@gmail.com",
+  "license": ""
+}
